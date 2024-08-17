@@ -23,7 +23,7 @@ Run the following scripts in Spyder.
 3) Parameter uncertainty quantification: 'EUanalysis2.py', 'mlgmmuq.py';
 4) Output the results in the paper: 'ML_GMM_UQ2.py'.
 
-# equired Packages
+# Required Packages
 
 numpy, pandas, geopy, scipy, matplotlib, joblib, sklearn, seaborn
 
